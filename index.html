@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title></title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+
+<body>
+
+    <!-- Background video -->
+    <video autoplay muted loop id="background-video">
+        <source src="background.mp4" type="video/mp4">
+    </video>
+
+
+    <!-- Gift boxes -->
+    <div class="gift-container" id="giftContainer"></div>
+
+
+    <!-- Video popup -->
+    <div class="video-popup" id="videoPopup">
+
+        <div class="video-box">
+
+            <button class="close-button" onclick="closeVideo()">✕</button>
+
+            <video id="birthdayVideo" controls playsinline>
+                <source id="videoSource" src="">
+            </video>
+
+        </div>
+
+    </div>
+
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>
