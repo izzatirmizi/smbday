@@ -12,14 +12,14 @@ const friends = [
 
 // Video file names
 const videos = {
-    shelby: "shelby.MP4",
-    uzair: "uzair.MP4",
+    shelby: "shelby.mp4",
+    uzair: "uzair.mp4",
     izza: "izza.mp4",
-    arhum: "arhum.MP4",
-    hadi: "hadi.MP4",
-    haad: "haad.MP4",
-    prachi: "prachi.MP4",
-    saad: "saad.MP4"
+    arhum: "arhum.mp4",
+    hadi: "hadi.mp4",
+    haad: "haad.mp4",
+    prachi: "prachi.mp4",
+    saad: "saad.mp4"
 };
 
 
